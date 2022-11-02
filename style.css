@@ -1,0 +1,70 @@
+
+* {
+  box-sizing:border-box;
+}
+
+html {
+  height:100vh;
+}
+
+body {
+  height:100vh;
+  font-family: open sans;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  /* background-color: rgb(92, 105, 118); */
+  background: linear-gradient(-45deg, #979797, #cdcdcd, #b5b5b5, #e5e5e5);
+	height: 100vh;
+}
+
+
+
+
+
+
+.kaart {
+  box-shadow: 20px 20px 19px 20px rgba(0, 0, 0, 0.6);
+  width: 30em;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  border-color: #000;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+ 
+}
+
+.kaart > h1 {
+  color:black;
+  
+}
+
+.title {
+  color: rgb(95, 95, 95);
+  font-size: 18px;
+}
+
+
+
+.contactgegevens {
+
+ 
+  background-color: #000;
+  color: white;
+  
+  
+}
+
+.contactgegevens >  h4 {
+  font-size: 20px;
+
+}
+
+.contactgegevens > p {
+  font-family:'Courier New', Courier, monospace;
+}
+
+
+
+
