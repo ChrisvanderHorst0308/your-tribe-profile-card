@@ -1,4 +1,6 @@
 # Visitekaartje Chris van der Horst
+![image](https://user-images.githubusercontent.com/112861116/199700033-52ed961d-5506-416f-b0d0-c92f55d61c39.png)
+
 ***
 ## Opdracht
 ***
