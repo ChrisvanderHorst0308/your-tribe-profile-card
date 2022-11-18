@@ -13,7 +13,6 @@ body {
   display:flex;
   justify-content:center;
   align-items:center;
-  /* background-color: rgb(92, 105, 118); */
   background: linear-gradient(-45deg, #979797, #cdcdcd, #b5b5b5, #e5e5e5);
 	height: 100vh;
 }
@@ -32,6 +31,8 @@ body {
   border-color: #000;
   border-radius: 10px;
   background-color: rgb(255, 255, 255);
+  
+  
  
 }
 
@@ -53,6 +54,9 @@ body {
  
   background-color: #000;
   color: white;
+  display: grid;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px ;
   
   
 }
